@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+form {
+    margin: 1em 0;
+}
+#responseContainer {
+    margin-top: 2em;
+    border: 1px solid #cccccc;
+    padding: 1em;
+}
