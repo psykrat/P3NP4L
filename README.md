@@ -21,7 +21,7 @@ P3NP4L is a web-based tool designed for cybersecurity enthusiasts, especially pe
 
 1. **Installation**
     ```bash
-    git clone https://github.com/your-github-username/p3np4l.git
+    git clone https://github.com/psykrat/p3np4l.git
     cd p3np4l
     npm install
     ```
