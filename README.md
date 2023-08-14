@@ -10,7 +10,7 @@
     \/_/    \/___/     \/_/\/_/    \/_/       \/_/      \/___/ 
 ```                   
 
-P3NP4L is a web-based tool designed for cybersecurity enthusiasts, especially pentesters. Leverage the power of GPT-3 to ask any pentesting-related questions and get instant, expert-backed answers!
+P3NP4L is a web-based tool designed for cybersecurity enthusiasts, especially pentesters. Leverage the power of GPT-3 to ask any pentesting-related questions and get instant answers.
 
 ## Features:
 - Terminal-like UI for nostalgic feels.
